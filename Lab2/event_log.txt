@@ -1,0 +1,9 @@
+[2026-01-29 16:36:50] Detected Fire | Severity: Medium
+[2026-01-29 16:36:56] Detected Flood | Severity: Medium
+[2026-01-29 16:37:02] Detected Earthquake | Severity: High
+[2026-01-29 16:37:08] Detected Earthquake | Severity: Low
+[2026-01-29 16:37:14] Detected Earthquake | Severity: High
+[2026-01-29 16:37:20] Detected Flood | Severity: Medium
+[2026-01-29 16:37:26] Detected Fire | Severity: Low
+[2026-01-29 16:37:32] Detected Fire | Severity: Low
+[2026-01-29 16:37:36] Detected Fire | Severity: Medium
